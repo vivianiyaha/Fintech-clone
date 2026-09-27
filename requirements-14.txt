@@ -1,4 +1,0 @@
-streamlit>=1.60
-requests>=2.31
-bcrypt>=4.1
-pandas>=2.0
