@@ -25,7 +25,7 @@ from views_deposit import render_deposit
 from views_withdraw import render_withdraw
 from views_admin import render_admin
 
-st.set_page_config(page_title="Cardstel Exchange", page_icon="🟢", layout="centered")
+st.set_page_config(page_title="Demo Exchange", page_icon="🟢", layout="centered")
 
 init_db()
 seed_admin()
