@@ -3,7 +3,7 @@ from auth import register_user, login_user
 
 
 def render_auth():
-    st.markdown("## 🟢 Cardstel Exchange")
+    st.markdown("## 🟢 Demo Exchange")
     st.caption("Trade BTC, ETH & USDT with Naira — securely, compliantly.")
 
     tab_login, tab_register = st.tabs(["Log In", "Create Account"])
